@@ -6,5 +6,4 @@ Midterm     20%
 Final       30%
 Project     20%
 Homework    20%
-Quiz        10%!
-[Uploading Evt1HMGUcAcfqQK.jpg…]()
+Quiz        10%
